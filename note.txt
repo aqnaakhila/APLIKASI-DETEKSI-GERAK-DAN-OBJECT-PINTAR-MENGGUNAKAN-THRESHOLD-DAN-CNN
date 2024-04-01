@@ -1,0 +1,12 @@
+silakan install import yang diperlukan menggunakan comand dibawah pada python enviroment 
+yang dimiliki
+
+"pip install -r requirements.txt"
+
+atau mendonwload secara manual satu-persatu.
+
+"pip install opencv-python"
+"pip install imutils"
+"pip install torch"
+"pip install pillow"
+"pip install ultralytics"
